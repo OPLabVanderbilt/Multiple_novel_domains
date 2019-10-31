@@ -1,0 +1,1 @@
+0	1	diff	same	same	nz1_30_b.tif	nz1_66_b.tif1	1	diff	diff	same	ng1-m-20-b.tif	ng1-m-18-a.tif2	1	diff	diff	diff	ng2-f-22-b.tif	ng2-f-3-a.tif3	1	same	diff	diff	nz2_77_b.tif	nz2_77_a.tif4	1	diff	diff	diff	sb26_b.tif	sb58_a.tif
