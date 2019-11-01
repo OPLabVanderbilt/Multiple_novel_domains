@@ -1,3 +1,3 @@
 # Multiple_novel_domains
 Multiple_novel_domains transferred from OPLab Test Library.
-Note that this repository does not have images or other files associated with it.
+Images and other files can be found in Multiple_novel_domains_Extras.
